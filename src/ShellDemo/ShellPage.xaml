@@ -12,12 +12,16 @@
             <pages:CityInfoPage Title="City Info" />
         </Tab>
         <Tab Route="busroute" Title="Bus Routes">
-            <pages:BusRoutePage Title="Bus Routes" />        
+            <pages:BusRoutePage Title="Bus Routes" />
         </Tab>
     </FlyoutItem>
 
     <FlyoutItem Title="Tourist Site of the Day" Route="touristsite">
         <pages:TouristSitePage Title="Tourist Site" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="About Test" Route="abouttest">
+        <pages:AboutPage Title="About Test"/>
     </FlyoutItem>
     
     
