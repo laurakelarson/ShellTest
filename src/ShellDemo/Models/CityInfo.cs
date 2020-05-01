@@ -20,7 +20,7 @@ namespace ShellDemo
     {
         public static CityInfo AllInformation = new CityInfo
         {
-            "Space Needle","Pike Place Market","Seattle Great Wheel", "Lenin Statue",
+            "Space Needle","Pike Place Market","Seattle Great Wheel",
             "Pioneer Square", "Seattle Aquarium", "Seattle Center",
             "Original Starbucks", "Museum of Pop Culture", "Smith Tower",
             "Gas Works Park", "Fremont Troll", "The Museum of Flight","Woodland Park Zoo"
